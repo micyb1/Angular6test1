@@ -1,0 +1,14 @@
+C:\Users\micyb1\source\repos\Angular6App\bin\Debug\netcoreapp2.1\Angular6App.deps.json
+C:\Users\micyb1\source\repos\Angular6App\bin\Debug\netcoreapp2.1\Angular6App.runtimeconfig.json
+C:\Users\micyb1\source\repos\Angular6App\bin\Debug\netcoreapp2.1\Angular6App.runtimeconfig.dev.json
+C:\Users\micyb1\source\repos\Angular6App\bin\Debug\netcoreapp2.1\Angular6App.dll
+C:\Users\micyb1\source\repos\Angular6App\bin\Debug\netcoreapp2.1\Angular6App.pdb
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.csprojAssemblyReference.cache
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.csproj.CoreCompileInputs.cache
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.RazorAssemblyInfo.cache
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.RazorAssemblyInfo.cs
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.AssemblyInfoInputs.cache
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.AssemblyInfo.cs
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.RazorTargetAssemblyInfo.cache
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.dll
+C:\Users\micyb1\source\repos\Angular6App\obj\Debug\netcoreapp2.1\Angular6App.pdb
